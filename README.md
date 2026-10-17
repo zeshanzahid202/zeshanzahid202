@@ -8,12 +8,18 @@
 
 <br />
 
-**[About](#about) &nbsp;/&nbsp; [Services](#services) &nbsp;/&nbsp; [Work](#selected-work) &nbsp;/&nbsp; [Stack](#how-it-fits-together) &nbsp;/&nbsp; [Process](#process) &nbsp;/&nbsp; [Contact](#start-a-project)**
+**[About](#about) &nbsp;/&nbsp; [Services](#services) &nbsp;/&nbsp; [Work](#selected-work) &nbsp;/&nbsp; [Stack](#how-it-fits-together) &nbsp;/&nbsp; [Process](#process) &nbsp;/&nbsp; [FAQ](#faq) &nbsp;/&nbsp; [Contact](#start-a-project)**
 
 <br />
 
 <a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-F59E0B?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=F59E0B" alt="View Zeshan's portfolio" /></a>
-<a href="mailto:zeshanzahid202@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/START%20A%20PROJECT-1F2937?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=1F2937" alt="Email Zeshan about a project" /></a>
+<a href="mailto:zeshanzahid202@gmail.com?subject=Project%20Inquiry&body=Hi%20Zeshan%2C%0A%0AProject%20type%3A%0ABusiness%20or%20idea%3A%0APages%20or%20features%20needed%3A%0APreferred%20timeline%3A%0A%0AThanks"><img src="https://img.shields.io/badge/START%20A%20PROJECT-1F2937?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=1F2937" alt="Email Zeshan a project brief" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20projects-F59E0B?style=flat-square&labelColor=1F2937" alt="Status: open to projects" />
+<img src="https://img.shields.io/badge/Location-Pakistan-F59E0B?style=flat-square&labelColor=1F2937" alt="Location: Pakistan" />
+<img src="https://img.shields.io/badge/Company-Neffto%20IT%20Solutions-F59E0B?style=flat-square&labelColor=1F2937" alt="Company: Neffto IT Solutions" />
 
 </div>
 
@@ -23,47 +29,106 @@
 
 ## About
 
-```bash
-$ whoami
-Zeshan Zahid · Full Stack Developer
-
-$ cat profile.txt
-company      Neffto IT Solutions
-location     Pakistan
-frontend     React.js, Next.js, Tailwind CSS
-backend      Node.js, Express.js, REST APIs
-database     MongoDB
-interests    SaaS products, AI-powered solutions
-building     UniEraX (in development)
-status       Open to client projects and collaborations
+```json
+{
+  "name": "Zeshan Zahid",
+  "role": "Full Stack Developer",
+  "company": "Neffto IT Solutions",
+  "location": "Pakistan",
+  "available_for_hire": true,
+  "builds": ["Business websites", "Web applications", "REST APIs"],
+  "stack": ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
+  "interests": ["SaaS products", "AI-powered solutions"],
+  "currently_building": "UniEraX (in development)",
+  "reply_to": "zeshanzahid202@gmail.com"
+}
 ```
 
-I work on both sides of a product: the responsive interface people use and the backend that powers it. My goal is simple. Clear communication, clean code, and websites or apps that are easy for your customers to use.
+I work on both sides of a product: the responsive interface people use and the backend that powers it. I care about clear communication, clean code, and websites or apps that are easy for your customers to use.
 
 <br />
 
 ## Services
 
-| | What you need | What I build |
-| :-: | :-- | :-- |
-| 🌐 | A website that represents your business | **Business websites & landing pages**: clean, fast, mobile-friendly |
-| ⚛️ | A modern web application | **React.js & Next.js apps** with reusable components |
-| 🔌 | Logic and data behind your product | **Backend development & REST APIs** with Node.js and Express.js |
-| 🗄️ | A place to store and manage data | **Database integration** with MongoDB |
-| 📱 | A design that works on every screen | **Responsive UI implementation** for phones, tablets and desktops |
-| 🔧 | An existing site that needs work | **Improvements & maintenance**: updates, fixes and refinements |
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1F2937','primaryTextColor':'#F9FAFB','primaryBorderColor':'#F59E0B','lineColor':'#F59E0B','fontFamily':'monospace'}}}%%
+mindmap
+  root((Zeshan Zahid))
+    Websites
+      Business websites
+      Landing pages
+    Web Apps
+      React.js
+      Next.js
+    Backend
+      Node.js
+      Express.js
+      REST APIs
+    Data
+      MongoDB integration
+    UI
+      Responsive layouts
+    Support
+      Improvements
+      Maintenance
+```
+
+| | What you need | What I build | Ask about it |
+| :-: | :-- | :-- | :-: |
+| 🌐 | A website that represents your business | **Business websites & landing pages**: clean, fast, mobile-friendly | [Enquire ↗](mailto:zeshanzahid202@gmail.com?subject=Website%20or%20Landing%20Page%20Inquiry) |
+| ⚛️ | A modern web application | **React.js & Next.js apps** with reusable components | [Enquire ↗](mailto:zeshanzahid202@gmail.com?subject=Web%20Application%20Inquiry) |
+| 🔌 | Logic and data behind your product | **Backend development & REST APIs** with Node.js and Express.js | [Enquire ↗](mailto:zeshanzahid202@gmail.com?subject=Backend%20and%20API%20Inquiry) |
+| 🗄️ | A place to store and manage data | **Database integration** with MongoDB | [Enquire ↗](mailto:zeshanzahid202@gmail.com?subject=Database%20Integration%20Inquiry) |
+| 📱 | A design that works on every screen | **Responsive UI implementation** for phones, tablets and desktops | [Enquire ↗](mailto:zeshanzahid202@gmail.com?subject=Responsive%20UI%20Inquiry) |
+| 🔧 | An existing site that needs work | **Improvements & maintenance**: updates, fixes and refinements | [Enquire ↗](mailto:zeshanzahid202@gmail.com?subject=Website%20Improvement%20Inquiry) |
 
 <br />
 
 ## Selected Work
 
-| # | Project | What it is | Status | Link |
-| :-: | :-- | :-- | :-: | :-: |
-| `01` | **Neffto IT Solutions** | A technology and digital solutions business. | `Live` | [Visit Website ↗](https://nefftosolution.com/) |
-| `02` | **Developer Portfolio** | My portfolio showcasing my development work, skills and projects. | `Live` | [View Portfolio ↗](https://zeshan-portfolio-ousy.vercel.app/) |
-| `03` | **Student Planner** | A student-focused project for organizing study tasks and learning activities. | `Demo` | [Try Demo ↗](http://student-planer.vercel.app/login) |
-| `04` | **Truck Dispatching** | A project related to truck dispatching services. | `Live` | [View Project ↗](https://burraqdispatch.vercel.app/) |
-| `05` | **UniEraX** | An evolving technology platform concept focused on digital services and innovative products. | `In Development` | Coming soon |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <code>01</code> &nbsp;<img src="https://img.shields.io/badge/Live-F59E0B?style=flat-square&labelColor=1F2937" alt="Live" />
+      <h3>Neffto IT Solutions</h3>
+      A technology and digital solutions business.
+      <br /><br />
+      <a href="https://nefftosolution.com/"><b>Visit Website ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <code>02</code> &nbsp;<img src="https://img.shields.io/badge/Live-F59E0B?style=flat-square&labelColor=1F2937" alt="Live" />
+      <h3>Developer Portfolio</h3>
+      My portfolio showcasing my development work, skills and projects.
+      <br /><br />
+      <a href="https://zeshan-portfolio-ousy.vercel.app/"><b>View Portfolio ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <code>03</code> &nbsp;<img src="https://img.shields.io/badge/Demo-F59E0B?style=flat-square&labelColor=1F2937" alt="Demo" />
+      <h3>Student Planner</h3>
+      A student-focused project for organizing study tasks and learning activities.
+      <br /><br />
+      <a href="http://student-planer.vercel.app/login"><b>Try Demo ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <code>04</code> &nbsp;<img src="https://img.shields.io/badge/Live-F59E0B?style=flat-square&labelColor=1F2937" alt="Live" />
+      <h3>Truck Dispatching</h3>
+      A project related to truck dispatching services.
+      <br /><br />
+      <a href="https://burraqdispatch.vercel.app/"><b>View Project ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <code>05</code> &nbsp;<img src="https://img.shields.io/badge/In%20Development-F59E0B?style=flat-square&labelColor=1F2937" alt="In development" />
+      <h3>UniEraX</h3>
+      An evolving technology platform concept focused on digital services and innovative products.
+      <br /><br />
+      <b>Coming soon</b>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -104,8 +169,21 @@ flowchart LR
     A["💬 Discuss<br/>goals & scope"] --> B["🗺️ Plan<br/>pages & features"] --> C["⚡ Build<br/>clean code"] --> D["🔍 Review<br/>feedback"] --> E["🚀 Launch<br/>& support"]
 ```
 
+<br />
+
+## FAQ
+
 <details>
-<summary><b>📝 What to send me when you start a project</b></summary>
+<summary><b>How do we get started?</b></summary>
+
+<br />
+
+Send me a short email using the **Start a Project** button. Tell me what your business or idea does, what you need built, and your preferred timeline. I'll reply and we can discuss the next steps.
+
+</details>
+
+<details>
+<summary><b>What should I include in my first message?</b></summary>
 
 <br />
 
@@ -114,6 +192,24 @@ flowchart LR
 - Pages or features you need
 - Design references or brand assets, if you have them
 - Your preferred timeline
+
+</details>
+
+<details>
+<summary><b>Can you work on a website that already exists?</b></summary>
+
+<br />
+
+Yes. I offer improvements and maintenance, such as updates, fixes and refinements. Send me the link and tell me what you'd like changed.
+
+</details>
+
+<details>
+<summary><b>Which technologies do you work with?</b></summary>
+
+<br />
+
+My main stack is React.js, Next.js, Node.js, Express.js and MongoDB, with Tailwind CSS and Bootstrap for styling. The full list is in the **Tech Stack** section above.
 
 </details>
 
@@ -139,7 +235,7 @@ Tell me about it and I'll get back to you.
 
 <br />
 
-<a href="mailto:zeshanzahid202@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/EMAIL%20ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=F59E0B" alt="Email Zeshan Zahid" /></a>
+<a href="mailto:zeshanzahid202@gmail.com?subject=Project%20Inquiry&body=Hi%20Zeshan%2C%0A%0AProject%20type%3A%0ABusiness%20or%20idea%3A%0APages%20or%20features%20needed%3A%0APreferred%20timeline%3A%0A%0AThanks"><img src="https://img.shields.io/badge/EMAIL%20A%20BRIEF-F59E0B?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=F59E0B" alt="Email Zeshan a project brief" /></a>
 <a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1F2937?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=1F2937" alt="Zeshan's portfolio" /></a>
 <a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/NEFFTO%20IT-1F2937?style=for-the-badge&logo=googlechrome&logoColor=F59E0B&labelColor=1F2937" alt="Neffto IT Solutions website" /></a>
 
