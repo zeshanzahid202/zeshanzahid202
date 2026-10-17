@@ -76,81 +76,107 @@ const zeshan = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,100:0D0D0D&height=2&section=header" width="100%" alt="" />
 
-## Services
-
-<p align="center"><b>Every product is built in layers. I work across all of them,</b><br /><sub>so you only need one developer from the first page to the last database record.</sub></p>
-
+## 🛠️ Services
+ 
+<sub>Six ways I can help — each one built with a focused stack and a clear outcome.</sub>
+ 
 <table width="100%">
   <tr>
-    <td width="24%"><sub><b>THE LAYER</b></sub></td>
-    <td width="44%"><sub><b>WHAT I DO</b></sub></td>
-    <td width="22%"><sub><b>BUILT WITH</b></sub></td>
-    <td width="10%" align="center"><sub><b>ASK</b></sub></td>
+    <td width="33%" valign="top">
+      <code>01 / WEB</code>
+      <h4>🌐 Websites &amp; Landing Pages</h4>
+      <i>Turn visitors into customers.</i><br /><br />
+      <sub>
+        ▸ Responsive, mobile-first layout<br />
+        ▸ Fast loading, clean structure<br />
+        ▸ Clear calls to action
+      </sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" height="30" alt="HTML, CSS, JavaScript, Tailwind CSS" /><br />
+      <sub><b>Ideal for:</b> businesses, launches, personal brands</sub><br /><br />
+      <a href="mailto:zeshanzahid202@gmail.com?subject=Website%20or%20Landing%20Page%20Inquiry"><b>Start this project →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <code>02 / APPS</code>
+      <h4>⚛️ React &amp; Next.js Apps</h4>
+      <i>Interfaces that feel instant.</i><br /><br />
+      <sub>
+        ▸ Reusable component architecture<br />
+        ▸ Dashboards and user flows<br />
+        ▸ API and database connected
+      </sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="30" alt="React, Next.js, Tailwind CSS" /><br />
+      <sub><b>Ideal for:</b> SaaS ideas, portals, internal tools</sub><br /><br />
+      <a href="mailto:zeshanzahid202@gmail.com?subject=Web%20Application%20Inquiry"><b>Start this project →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <code>03 / API</code>
+      <h4>🔌 Backend &amp; REST APIs</h4>
+      <i>Logic that stays clean as you grow.</i><br /><br />
+      <sub>
+        ▸ Node.js and Express endpoints<br />
+        ▸ Validation and error handling<br />
+        ▸ Documented, easy to extend
+      </sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="30" alt="Node.js, Express" /><br />
+      <sub><b>Ideal for:</b> apps that need a custom backend</sub><br /><br />
+      <a href="mailto:zeshanzahid202@gmail.com?subject=Backend%20and%20API%20Inquiry"><b>Start this project →</b></a>
+    </td>
   </tr>
   <tr>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/01-INTERFACE-FACC15?style=flat-square&labelColor=0D0D0D" alt="Layer 01: Interface" /><br />
-      <sub>What your customers see and touch</sub>
+    <td width="33%" valign="top">
+      <code>04 / DATA</code>
+      <h4>🗄️ Database Integration</h4>
+      <i>Data that stays organised.</i><br /><br />
+      <sub>
+        ▸ MongoDB schema design<br />
+        ▸ CRUD operations and queries<br />
+        ▸ Connected to your app end to end
+      </sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=mongodb,nodejs&theme=dark" height="30" alt="MongoDB, Node.js" /><br />
+      <sub><b>Ideal for:</b> apps that store and manage user data</sub><br /><br />
+      <a href="mailto:zeshanzahid202@gmail.com?subject=Database%20Integration%20Inquiry"><b>Start this project →</b></a>
     </td>
-    <td valign="middle">
-      🌐 <b>Business websites &amp; landing pages</b><br />
-      📱 <b>Responsive, mobile-first UI</b><br />
-      <sub>Fast pages that present your business clearly.</sub>
+    <td width="33%" valign="top">
+      <code>05 / UI</code>
+      <h4>📱 Responsive UI</h4>
+      <i>One design, every screen.</i><br /><br />
+      <sub>
+        ▸ Phone, tablet and desktop layouts<br />
+        ▸ Consistent, component-based design<br />
+        ▸ Figma designs turned into code
+      </sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=figma,css,tailwind,bootstrap&theme=dark" height="30" alt="Figma, CSS, Tailwind CSS, Bootstrap" /><br />
+      <sub><b>Ideal for:</b> sites that look off on mobile</sub><br /><br />
+      <a href="mailto:zeshanzahid202@gmail.com?subject=Responsive%20UI%20Inquiry"><b>Start this project →</b></a>
     </td>
-    <td valign="middle"><sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Bootstrap</code></sub></td>
-    <td valign="middle" align="center"><a href="mailto:zeshanzahid202@gmail.com?subject=Interface%20Inquiry%3A%20Website%20or%20Landing%20Page"><b>Enquire →</b></a></td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/02-APPLICATION-FACC15?style=flat-square&labelColor=0D0D0D" alt="Layer 02: Application" /><br />
-      <sub>How your product behaves</sub>
+    <td width="33%" valign="top">
+      <code>06 / CARE</code>
+      <h4>🔧 Improvements &amp; Maintenance</h4>
+      <i>Keep what you have, make it better.</i><br /><br />
+      <sub>
+        ▸ Bug fixes and refinements<br />
+        ▸ Performance and UI upgrades<br />
+        ▸ New features on existing sites
+      </sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="30" alt="Git, GitHub, VS Code" /><br />
+      <sub><b>Ideal for:</b> existing sites that need attention</sub><br /><br />
+      <a href="mailto:zeshanzahid202@gmail.com?subject=Website%20Improvement%20Inquiry"><b>Start this project →</b></a>
     </td>
-    <td valign="middle">
-      ⚛️ <b>React.js &amp; Next.js web applications</b><br />
-      <sub>Modern apps with reusable components and a smooth user experience.</sub>
-    </td>
-    <td valign="middle"><sub><code>React.js</code> <code>Next.js</code></sub></td>
-    <td valign="middle" align="center"><a href="mailto:zeshanzahid202@gmail.com?subject=Application%20Inquiry%3A%20Web%20App"><b>Enquire →</b></a></td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/03-LOGIC-FACC15?style=flat-square&labelColor=0D0D0D" alt="Layer 03: Logic" /><br />
-      <sub>The rules working behind the scenes</sub>
-    </td>
-    <td valign="middle">
-      🔌 <b>Backend development &amp; REST APIs</b><br />
-      <sub>Server-side logic that connects your interface to your data.</sub>
-    </td>
-    <td valign="middle"><sub><code>Node.js</code> <code>Express.js</code> <code>REST APIs</code></sub></td>
-    <td valign="middle" align="center"><a href="mailto:zeshanzahid202@gmail.com?subject=Backend%20Inquiry%3A%20REST%20API"><b>Enquire →</b></a></td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/04-DATA-FACC15?style=flat-square&labelColor=0D0D0D" alt="Layer 04: Data" /><br />
-      <sub>Where your information lives</sub>
-    </td>
-    <td valign="middle">
-      🗄️ <b>Database integration</b><br />
-      <sub>Applications connected to MongoDB for reliable data handling.</sub>
-    </td>
-    <td valign="middle"><sub><code>MongoDB</code></sub></td>
-    <td valign="middle" align="center"><a href="mailto:zeshanzahid202@gmail.com?subject=Database%20Inquiry"><b>Enquire →</b></a></td>
-  </tr>
-  <tr>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/05-CARE-FACC15?style=flat-square&labelColor=0D0D0D" alt="Layer 05: Care" /><br />
-      <sub>Keeping it healthy over time</sub>
-    </td>
-    <td valign="middle">
-      🔧 <b>Website improvements &amp; maintenance</b><br />
-      <sub>Updates, fixes and refinements for existing websites.</sub>
-    </td>
-    <td valign="middle"><sub><code>Updates</code> <code>Fixes</code> <code>Refinements</code></sub></td>
-    <td valign="middle" align="center"><a href="mailto:zeshanzahid202@gmail.com?subject=Improvement%20Inquiry%3A%20Existing%20Website"><b>Enquire →</b></a></td>
   </tr>
 </table>
-
-<p align="center"><b>Need more than one layer?</b> <a href="mailto:zeshanzahid202@gmail.com?subject=Full%20Stack%20Project%20Inquiry"><b>Describe your project in a few lines →</b></a></p>
+<div align="center">
+> **Not sure which one you need?** Send a short brief and I'll suggest the simplest option that fits your goal.
+>
+> <a href="mailto:zeshanzahid202@gmail.com?subject=Not%20sure%20what%20I%20need&body=Hi%20Zeshan%2C%0A%0AHere%20is%20what%20I%20want%20to%20achieve%3A%0A%0AThanks"><img src="https://img.shields.io/badge/TELL%20ME%20YOUR%20GOAL-%E2%86%92-FACC15?style=for-the-badge&labelColor=0D0D0D" alt="Tell me your goal" /></a>
+ 
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,100:0D0D0D&height=2&section=header" width="100%" alt="" />
 
 ## 🚀 Selected Work
 
@@ -283,25 +309,30 @@ Tell me about it and I'll get back to you.
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="20%" valign="top">
       <h3>📧</h3>
       <b>Email</b><br />
       <a href="mailto:zeshanzahid202@gmail.com"><sub>zeshanzahid202@gmail.com</sub></a>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="20%" valign="top">
       <h3>🌐</h3>
       <b>Portfolio</b><br />
       <a href="https://zeshan-portfolio-ousy.vercel.app/"><sub>zeshan-portfolio-ousy.vercel.app</sub></a>
     </td>
-    <td align="center" width="25%" valign="top">
-      <h3>🏢</h3>
-      <b>Workplace</b><br />
-      <a href="https://nefftosolution.com/"><sub>Neffto IT Solutions</sub></a>
-    </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="20%" valign="top">
       <h3>💼</h3>
       <b>LinkedIn</b><br />
-      <sub><i>Coming soon</i></sub>
+      <a href="https://www.linkedin.com/in/zeshan-zahid-944693414/"><sub>Zeshan Zahid</sub></a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>📘</h3>
+      <b>Facebook</b><br />
+      <a href="https://www.facebook.com/profile.php?id=100078243769407"><sub>Zeshan Zahid</sub></a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>🏠</h3>
+      <b>Work Mode</b><br />
+      <sub>Remote · Worldwide</sub>
     </td>
   </tr>
 </table>
