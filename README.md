@@ -1,72 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4C1D95,50:7C3AED,100:DB2777&height=220&section=header&text=Zeshan%20Zahid&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full%20Stack%20Developer&descColor=F5D0FE&descSize=22&descAlignY=62" alt="Zeshan Zahid - Full Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,55:1F2937,100:F59E0B&height=210&section=header&text=Zeshan%20Zahid&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=FDE68A&descSize=20&descAlignY=58" alt="Zeshan Zahid - Full Stack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Websites+%7C+Web+Apps+%7C+REST+APIs;React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Building+digital+solutions+for+businesses" alt="Websites, web apps and REST APIs built with React.js, Next.js, Node.js and MongoDB" />
+### I turn business ideas into fast, reliable web products.
 
-<br />
-
-**[About](#-about) &nbsp;·&nbsp; [Services](#-services) &nbsp;·&nbsp; [Projects](#-featured-projects) &nbsp;·&nbsp; [Stack](#-tech-stack) &nbsp;·&nbsp; [Process](#-how-i-work) &nbsp;·&nbsp; [Contact](#-lets-work-together)**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=F59E0B&center=true&vCenter=true&width=620&lines=Websites+%C2%B7+Web+Apps+%C2%B7+REST+APIs;React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Based+in+Pakistan+%C2%B7+Open+to+projects" alt="Websites, web apps and REST APIs with React.js, Next.js, Node.js and MongoDB. Based in Pakistan, open to projects." />
 
 <br />
 
-<a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Zeshan's portfolio" /></a>
-<a href="mailto:zeshanzahid202@gmail.com"><img src="https://img.shields.io/badge/HIRE%20ME-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zeshan Zahid" /></a>
-<a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/NEFFTO%20IT-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Neffto IT Solutions" /></a>
+**[About](#about) &nbsp;/&nbsp; [Services](#services) &nbsp;/&nbsp; [Work](#selected-work) &nbsp;/&nbsp; [Stack](#how-it-fits-together) &nbsp;/&nbsp; [Process](#process) &nbsp;/&nbsp; [Contact](#start-a-project)**
+
+<br />
+
+<a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-F59E0B?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=F59E0B" alt="View Zeshan's portfolio" /></a>
+<a href="mailto:zeshanzahid202@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/START%20A%20PROJECT-1F2937?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=1F2937" alt="Email Zeshan about a project" /></a>
 
 </div>
 
-<!-- LinkedIn: add your profile to the "Let's Work Together" section once you have the exact URL. -->
+<!-- LinkedIn: add your profile to the "Start a Project" section once you have the exact URL. -->
 
----
+<br />
 
-## 👤 About
+## About
 
-I build **responsive websites**, **modern web applications** and **REST APIs** that help businesses show up and work better online. I work on both sides of a product: the interface people use and the backend that powers it.
+```bash
+$ whoami
+Zeshan Zahid · Full Stack Developer
 
-```js
-const zeshan = {
-  name: "Zeshan Zahid",
-  role: "Full Stack Developer",
-  company: "Neffto IT Solutions",
-  location: "Pakistan",
-  stack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
-  focus: ["Responsive UI", "REST APIs", "Database-driven apps"],
-  interests: ["SaaS products", "AI-powered solutions"],
-  currentlyBuilding: "UniEraX (in development)",
-  openTo: ["Client projects", "Collaborations"],
-  contact: "zeshanzahid202@gmail.com",
-};
+$ cat profile.txt
+company      Neffto IT Solutions
+location     Pakistan
+frontend     React.js, Next.js, Tailwind CSS
+backend      Node.js, Express.js, REST APIs
+database     MongoDB
+interests    SaaS products, AI-powered solutions
+building     UniEraX (in development)
+status       Open to client projects and collaborations
 ```
 
----
+I work on both sides of a product: the responsive interface people use and the backend that powers it. My goal is simple. Clear communication, clean code, and websites or apps that are easy for your customers to use.
 
-## 🛠 Services
+<br />
 
-| | Service | What you get |
+## Services
+
+| | What you need | What I build |
 | :-: | :-- | :-- |
-| 🌐 | **Business Websites & Landing Pages** | Clean, fast, mobile-friendly pages that present your business clearly |
-| ⚛️ | **React.js & Next.js Applications** | Modern web apps with reusable components and a smooth user experience |
-| 🔌 | **Backend Development & REST APIs** | Server-side logic and APIs built with Node.js and Express.js |
-| 🗄️ | **Database Integration** | Applications connected to MongoDB for reliable data handling |
-| 📱 | **Responsive UI Implementation** | Layouts that work well on phones, tablets and desktops |
-| 🔧 | **Improvements & Maintenance** | Updates, fixes and refinements for existing websites |
+| 🌐 | A website that represents your business | **Business websites & landing pages**: clean, fast, mobile-friendly |
+| ⚛️ | A modern web application | **React.js & Next.js apps** with reusable components |
+| 🔌 | Logic and data behind your product | **Backend development & REST APIs** with Node.js and Express.js |
+| 🗄️ | A place to store and manage data | **Database integration** with MongoDB |
+| 📱 | A design that works on every screen | **Responsive UI implementation** for phones, tablets and desktops |
+| 🔧 | An existing site that needs work | **Improvements & maintenance**: updates, fixes and refinements |
 
----
+<br />
 
-## 🚀 Featured Projects
+## Selected Work
 
-| Project | Overview | Status | Link |
-| :-- | :-- | :-: | :-: |
-| **🏢 Neffto IT Solutions** | A technology and digital solutions business. | `Live` | [**Visit Website →**](https://nefftosolution.com/) |
-| **💼 Developer Portfolio** | My portfolio showcasing my development work, skills and projects. | `Live` | [**View Portfolio →**](https://zeshan-portfolio-ousy.vercel.app/) |
-| **📚 Student Planner** | A student-focused project for organizing study tasks and learning activities. | `Demo` | [**Try Demo →**](http://student-planer.vercel.app/login) |
-| **🚚 Truck Dispatching** | A project related to truck dispatching services. | `Live` | [**View Project →**](https://burraqdispatch.vercel.app/) |
-| **🌱 UniEraX** | An evolving technology platform concept focused on digital services and innovative products. | `In Development` | Coming soon |
+| # | Project | What it is | Status | Link |
+| :-: | :-- | :-- | :-: | :-: |
+| `01` | **Neffto IT Solutions** | A technology and digital solutions business. | `Live` | [Visit Website ↗](https://nefftosolution.com/) |
+| `02` | **Developer Portfolio** | My portfolio showcasing my development work, skills and projects. | `Live` | [View Portfolio ↗](https://zeshan-portfolio-ousy.vercel.app/) |
+| `03` | **Student Planner** | A student-focused project for organizing study tasks and learning activities. | `Demo` | [Try Demo ↗](http://student-planer.vercel.app/login) |
+| `04` | **Truck Dispatching** | A project related to truck dispatching services. | `Live` | [View Project ↗](https://burraqdispatch.vercel.app/) |
+| `05` | **UniEraX** | An evolving technology platform concept focused on digital services and innovative products. | `In Development` | Coming soon |
 
----
+<br />
 
-## 🧰 Tech Stack
+## How It Fits Together
+
+The stack I work with, from the browser to the database:
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1F2937','primaryTextColor':'#F9FAFB','primaryBorderColor':'#F59E0B','lineColor':'#F59E0B','fontFamily':'monospace'}}}%%
+flowchart LR
+    U(["👤 User<br/>phone · tablet · desktop"]) --> F["🖥️ Frontend<br/>React.js · Next.js<br/>Tailwind CSS · Bootstrap"]
+    F -->|REST API| B["⚙️ Backend<br/>Node.js · Express.js"]
+    B --> D[("🗄️ MongoDB")]
+```
 
 <div align="center">
 
@@ -83,18 +94,18 @@ const zeshan = {
 | **Database** | MongoDB |
 | **Tools** | Git · GitHub · VS Code · Figma |
 
----
+<br />
 
-## ⚙️ How I Work
+## Process
 
-> **1 · Discuss** your goals, audience and requirements
-> **2 · Plan** the pages, features and technology that fit
-> **3 · Build** clean, responsive and maintainable code
-> **4 · Review** together and refine based on feedback
-> **5 · Launch** with deployment help and ongoing support
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1F2937','primaryTextColor':'#F9FAFB','primaryBorderColor':'#F59E0B','lineColor':'#F59E0B','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["💬 Discuss<br/>goals & scope"] --> B["🗺️ Plan<br/>pages & features"] --> C["⚡ Build<br/>clean code"] --> D["🔍 Review<br/>feedback"] --> E["🚀 Launch<br/>& support"]
+```
 
 <details>
-<summary><b>📝 Starting a project? Here's what to send me</b></summary>
+<summary><b>📝 What to send me when you start a project</b></summary>
 
 <br />
 
@@ -104,38 +115,38 @@ const zeshan = {
 - Design references or brand assets, if you have them
 - Your preferred timeline
 
-Send these to **[zeshanzahid202@gmail.com](mailto:zeshanzahid202@gmail.com)** and I'll get back to you.
-
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zeshanzahid202&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=C9D1D9" alt="Zeshan Zahid's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeshanzahid202&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Zeshan Zahid's most used programming languages" />
-
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-<div align="center">
-
-### Have a project in mind? Let's talk.
 
 <br />
 
-<a href="mailto:zeshanzahid202@gmail.com"><img src="https://img.shields.io/badge/EMAIL-zeshanzahid202@gmail.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zeshan Zahid" /></a>
-<a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Zeshan's portfolio" /></a>
+## GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zeshanzahid202&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F59E0B&icon_color=FBBF24&text_color=C9D1D9" alt="Zeshan Zahid's GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeshanzahid202&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9" alt="Zeshan Zahid's most used programming languages" />
+
+</div>
+
+<br />
+
+## Start a Project
+
+<div align="center">
+
+### Have an idea or an existing site that needs work?
+Tell me about it and I'll get back to you.
+
+<br />
+
+<a href="mailto:zeshanzahid202@gmail.com?subject=Project%20Inquiry"><img src="https://img.shields.io/badge/EMAIL%20ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=F59E0B" alt="Email Zeshan Zahid" /></a>
+<a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1F2937?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=1F2937" alt="Zeshan's portfolio" /></a>
+<a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/NEFFTO%20IT-1F2937?style=for-the-badge&logo=googlechrome&logoColor=F59E0B&labelColor=1F2937" alt="Neffto IT Solutions website" /></a>
 
 <br /><br />
 
-💼 **LinkedIn:** *coming soon*
+`zeshanzahid202@gmail.com` &nbsp;·&nbsp; 💼 LinkedIn: *coming soon*
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:DB2777,50:7C3AED,100:4C1D95&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:F59E0B,45:1F2937,100:0D1117&height=90&section=footer" alt="" width="100%" />
 
 </div>
