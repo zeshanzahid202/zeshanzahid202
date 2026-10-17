@@ -1,52 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Zeshan%20Zahid&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=9ADBE8&descSize=20&descAlignY=60" alt="Zeshan Zahid - Full Stack Developer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:203A43,100:00B4DB&height=230&section=header&text=Zeshan%20Zahid&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer&descColor=C9F1FF&descSize=22&descAlignY=58" alt="Zeshan Zahid - Full Stack Developer" width="100%" />
 
-### Websites, web apps and APIs that help businesses grow online
-
-I build **responsive websites**, **modern web applications**, **REST APIs** and **practical digital solutions** for businesses.
-Have a project in mind? Let's talk about it.
+<a href="https://zeshan-portfolio-ousy.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=00B4DB&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Websites%2C+web+apps+and+APIs+for+businesses" alt="Full Stack Developer - React.js, Next.js, Node.js, MongoDB" />
+</a>
 
 <br />
 
-<a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="View Zeshan's portfolio" /></a>
-<a href="mailto:zeshanzahid202@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zeshan" /></a>
-<a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/Neffto_IT_Solutions-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Neffto IT Solutions" /></a>
+I build **responsive websites**, **modern web applications**, **REST APIs** and **practical digital solutions** that help businesses grow online.
+
+<br />
+
+<img src="https://img.shields.io/badge/Status-Open_to_Projects-2EA043?style=flat-square" alt="Open to projects" />
+<img src="https://img.shields.io/badge/Location-Pakistan-0F2027?style=flat-square" alt="Location: Pakistan" />
+<img src="https://img.shields.io/badge/Company-Neffto_IT_Solutions-00B4DB?style=flat-square" alt="Neffto IT Solutions" />
 
 <br /><br />
 
-📍 Pakistan &nbsp;•&nbsp; 💼 Neffto IT Solutions &nbsp;•&nbsp; 📧 zeshanzahid202@gmail.com
+<a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20VIEW%20PORTFOLIO-0F2027?style=for-the-badge" alt="View portfolio" /></a>
+&nbsp;
+<a href="mailto:zeshanzahid202@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20%20HIRE%20ME-00B4DB?style=for-the-badge" alt="Email Zeshan" /></a>
+&nbsp;
+<a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20%20NEFFTO%20IT-203A43?style=for-the-badge" alt="Visit Neffto IT Solutions" /></a>
 
 </div>
 
 <!-- LinkedIn: add your profile to the "Connect With Me" section once you have the exact URL. -->
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** from Pakistan, working with **Neffto IT Solutions**. I like turning ideas into clean, fast and easy-to-use web products, from the interface people see to the API and database behind it.
+> *I like turning ideas into clean, fast and easy-to-use web products, from the interface people see to the API and database behind it.*
 
-|  |  |
-| :-- | :-- |
-| 🖥️ **Full-stack development** | Frontend and backend applications |
-| 📱 **Responsive interfaces** | User-friendly design on every screen |
-| 🔌 **APIs & data** | REST API integration and database-driven apps |
-| 🚀 **Interests** | SaaS products and AI-powered solutions |
-| 🤝 **Collaboration** | Open to meaningful projects and partnerships |
+I'm a **Full Stack Developer** from Pakistan, working with **[Neffto IT Solutions](https://nefftosolution.com/)**.
 
-<br />
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🖥️</h3>
+      <b>Full-Stack Development</b><br />
+      <sub>Frontend and backend applications</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📱</h3>
+      <b>Responsive Interfaces</b><br />
+      <sub>User-friendly on every screen</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🔌</h3>
+      <b>APIs & Databases</b><br />
+      <sub>REST APIs and data-driven apps</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🚀</h3>
+      <b>SaaS Interest</b><br />
+      <sub>Product-minded development</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🤖</h3>
+      <b>AI-Powered Solutions</b><br />
+      <sub>Exploring practical use cases</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🤝</h3>
+      <b>Collaboration</b><br />
+      <sub>Open to meaningful projects</sub>
+    </td>
+  </tr>
+</table>
 
-## 🎯 Currently
+### 🎯 Currently
 
 - 🏢 Working with **[Neffto IT Solutions](https://nefftosolution.com/)**
 - 🌱 Building **UniEraX**, a technology platform concept *(in development)*
 - 🔍 Exploring SaaS products and AI-powered solutions
 - 📬 Open to web development projects and collaborations
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
-## 🛠️ Services
+## 🛠️ Services I Offer
 
 <table>
   <tr>
@@ -81,40 +117,32 @@ I'm a **Full Stack Developer** from Pakistan, working with **Neffto IT Solutions
   </tr>
 </table>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
 **Frontend**<br />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" alt="HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap" />
 
 <br /><br />
 
 **Backend & Database**<br />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Node.js, Express.js, MongoDB" />
 
 <br /><br />
 
 **Tools**<br />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Git, GitHub, VS Code, Figma" />
+
+<br /><br />
+
+<sub>HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Bootstrap • Node.js • Express.js • REST APIs • MongoDB • Git • GitHub • VS Code • Figma</sub>
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -122,56 +150,59 @@ I'm a **Full Stack Developer** from Pakistan, working with **Neffto IT Solutions
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 Neffto IT Solutions</h3>
+      <img src="https://img.shields.io/badge/Status-Live-2EA043?style=flat-square" alt="Live" /><br /><br />
       A technology and digital solutions business.
       <br /><br />
-      <a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/Visit_Website-203A43?style=for-the-badge" alt="Visit the Neffto IT Solutions website" /></a>
+      <a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/Visit_Website-00B4DB?style=for-the-badge" alt="Visit the Neffto IT Solutions website" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>💼 Personal Developer Portfolio</h3>
+      <img src="https://img.shields.io/badge/Status-Live-2EA043?style=flat-square" alt="Live" /><br /><br />
       My portfolio showcasing my development work, skills and projects.
       <br /><br />
-      <a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-203A43?style=for-the-badge" alt="View Zeshan's portfolio" /></a>
+      <a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-00B4DB?style=for-the-badge" alt="View Zeshan's portfolio" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📚 Student Planner</h3>
+      <img src="https://img.shields.io/badge/Type-Demo-8957E5?style=flat-square" alt="Demo" /><br /><br />
       A student-focused project for organizing study tasks and learning activities.
       <br /><br />
-      <a href="http://student-planer.vercel.app/login"><img src="https://img.shields.io/badge/Try_Demo-203A43?style=for-the-badge" alt="Try the Student Planner demo" /></a>
+      <a href="http://student-planer.vercel.app/login"><img src="https://img.shields.io/badge/Try_Demo-00B4DB?style=for-the-badge" alt="Try the Student Planner demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚚 Truck Dispatching Project</h3>
+      <img src="https://img.shields.io/badge/Status-Live-2EA043?style=flat-square" alt="Live" /><br /><br />
       A project related to truck dispatching services.
       <br /><br />
-      <a href="https://burraqdispatch.vercel.app/"><img src="https://img.shields.io/badge/View_Project-203A43?style=for-the-badge" alt="View the truck dispatching project" /></a>
+      <a href="https://burraqdispatch.vercel.app/"><img src="https://img.shields.io/badge/View_Project-00B4DB?style=for-the-badge" alt="View the truck dispatching project" /></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🌱 UniEraX <sub>(In Development)</sub></h3>
+    <td colspan="2" valign="top" align="center">
+      <h3>🌱 UniEraX</h3>
+      <img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=flat-square" alt="UniEraX status: in development" /><br /><br />
       An evolving technology platform concept focused on digital services and innovative products.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Status-In_Development-F5A623?style=for-the-badge" alt="UniEraX status: in development" />
     </td>
   </tr>
 </table>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
 ## ⚙️ How I Work
 
-| Step | What happens |
-| :-: | :-- |
-| **1. Discuss** | We talk through your goals, audience and requirements. |
-| **2. Plan** | I outline the pages, features and technology that fit your project. |
-| **3. Build** | I develop responsive, clean and maintainable code. |
-| **4. Review** | We test together and refine based on your feedback. |
-| **5. Launch & Support** | I help with deployment and ongoing improvements. |
+<table>
+  <tr>
+    <td align="center" width="20%"><h3>💬</h3><b>1. Discuss</b><br /><sub>Goals, audience and requirements</sub></td>
+    <td align="center" width="20%"><h3>🗺️</h3><b>2. Plan</b><br /><sub>Pages, features and technology</sub></td>
+    <td align="center" width="20%"><h3>⚡</h3><b>3. Build</b><br /><sub>Clean, responsive, maintainable code</sub></td>
+    <td align="center" width="20%"><h3>🔍</h3><b>4. Review</b><br /><sub>Test together and refine</sub></td>
+    <td align="center" width="20%"><h3>🚀</h3><b>5. Launch</b><br /><sub>Deployment and ongoing support</sub></td>
+  </tr>
+</table>
 
-<br />
-
-## ✨ Why Work With Me
+### ✨ Why Work With Me
 
 - ✅ **Full-stack skills**: one developer for both the frontend and the backend
 - ✅ **Mobile-first thinking**: layouts that work on every device
@@ -193,7 +224,7 @@ Send these to **[zeshanzahid202@gmail.com](mailto:zeshanzahid202@gmail.com)** an
 
 </details>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -204,25 +235,24 @@ Send these to **[zeshanzahid202@gmail.com](mailto:zeshanzahid202@gmail.com)** an
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00B4DB&height=3&section=header" width="100%" alt="" />
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
+### Have a project in mind? Let's make it happen.
+
+<br />
+
 <a href="mailto:zeshanzahid202@gmail.com"><img src="https://img.shields.io/badge/Email-zeshanzahid202@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Zeshan Zahid" /></a>
 <a href="https://zeshan-portfolio-ousy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Zeshan's portfolio" /></a>
-<a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/Neffto_IT_Solutions-Website-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Neffto IT Solutions website" /></a>
+<a href="https://nefftosolution.com/"><img src="https://img.shields.io/badge/Neffto_IT_Solutions-Website-00B4DB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Neffto IT Solutions website" /></a>
 
 <br /><br />
 
 💼 **LinkedIn:** *coming soon*
 
-<br />
-
-### Let's build something useful together.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:203A43,100:0F2027&height=120&section=footer" alt="Footer wave" width="100%" />
 
 </div>
-
